@@ -4,8 +4,8 @@ I have been planning to learn TypeScript, Testing in JavaScript, GraphQL, NestJS
 
 For this reason, I am joining the #100DaysOfCode Challenge from today (Nov 8, 2021). Following are the topics I am planning to complete in this 100 days:
 
-- [ ] Learn TypeScript ([progress](./day-01-10-learn-typescript.md))
-- [ ] Learn Node & React in TypeScript
+- [ ] Learn Node with TypeScript ([progress](./day-00-09-learn-node-with-typescript.md))
+- [ ] Learn React with TypeScript
 - [ ] Learn Unit Testing in React
 - [ ] Learn Unit Testing in Node
 - [ ] Learn about Webpack configuration
